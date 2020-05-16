@@ -1,0 +1,14 @@
+body{
+	overflow: hidden;
+	background-color: rgba(255,255,255,0.1);
+}
+
+#discussion{
+	height: 78vh;
+	box-shadow: 0 0 5px grey;
+	overflow-y: scroll;
+}
+
+.saisie{
+	height: 20vh;
+}
