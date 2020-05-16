@@ -1,0 +1,2 @@
+POST http://chat-ajax.test/ajax/ajoutMessage.php
+Cookie : PHPSESSID=pt156kv4h2a7kgdjnmnvr94nsn
